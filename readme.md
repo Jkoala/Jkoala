@@ -11,7 +11,8 @@
 <img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
   <img src="https://img.shields.io/static/v1?label=Program&message=Java&color=red"/>
 <a href="https://blog.csdn.net/weixin_38331049"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
-  <a href="https://jkoala.github.io/"><img src="https://img.shields.io/static/v1?label=Blog&message=gitpage&color=yellow"/></a>
+  <a href="https://jkoala.github.io/"><img src="https://img.shields.io/static/v1?label=Blog&message=GitPage&color=#520520"/></a>
+    <a href="https://jkoala.github.io/blog"><img src="https://img.shields.io/static/v1?label=tech&message=TechBlog&color=green"/></a>
 </p>
 
 ![](https://stats.justsong.cn/api/csdn?id=weixin_38331049&theme=dark)
