@@ -1,4 +1,4 @@
-# Hi 🎉 Welcome to jkoala's Github Homepage!
+# Hi 🎉 Welcome to Jkoala's Github Homepage!
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
 
@@ -17,5 +17,3 @@
 </p>
 
 ![](https://stats.justsong.cn/api/csdn?id=weixin_38331049&theme=dark)
-
-
